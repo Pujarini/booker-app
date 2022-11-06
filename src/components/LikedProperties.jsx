@@ -10,9 +10,9 @@ const LikedProperties = () => {
           className="likedImg"
           alt="likedImg"
         />
-        <span class="likedName">hello city</span>
-        <span class="likedCity">Hllo</span>
-        <span class="likedPrice">Starting from $120</span>
+        <span className="likedName">hello city</span>
+        <span className="likedCity">Hllo</span>
+        <span className="likedPrice">Starting from $120</span>
         <div className="likedRating">
           <button className="rating">8.9</button>
           <span>Excellent</span>
